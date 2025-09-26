@@ -5,7 +5,7 @@
     "image": "",
     "email": "peiwanyu@u.nus.edu",
     "phone": "",
-    "url": "https://wanyu-pei.github.io/",
+    "url": "",
     "summary": "Postdoctoral Research Fellow in Building Environment at the National University of Singapore, focusing on urban material stock modelling, sustainable urban analysis, computational design, and building informatics.",
     "location": {
       "address": "",
@@ -16,65 +16,7 @@
     },
     "profiles": []
   },
-    "work & experience": [
-    {
-      "name": "National University of Singapore",
-      "position": "Postdoctoral Research Fellow, Department of Building Environment",
-      "url": "",
-      "startDate": "2025-10",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "City Synatx Lab"
-      ]
-    },
-    {
-      "name": "ETH Zurich",
-      "position": "Academic Guest, Chair of Sustainable Construction",
-      "url": "https://ethz.ch",
-      "startDate": "2023-06-01",
-      "endDate": "2023-08-01",
-      "summary": "Research collaboration during PhD studies."
-    },
-    {
-      "name": "Singapore ETH Center (SEC), Future Cities Lab (FCL) Global",
-      "position": "PhD Researcher",
-      "startDate": "2022-02-01",
-      "endDate": "2024-02-01",
-      "summary": "Circular Future Cities (CFC) project."
-    }
-  ],
-  "education": [
-    {
-      "institution": "National University of Singapore",
-      "location": "Singapore",
-      "url": "https://nus.edu.sg",
-      "area": "Architecture",
-      "studyType": "PhD (Candidate)",
-      "startDate": "2021-08-01",
-      "endDate": "",
-      "courses": []
-    },
-    {
-      "institution": "Harbin Institute of Technology (Shenzhen)",
-      "location": "China",
-      "area": "Architecture",
-      "studyType": "Master of Engineering",
-      "startDate": "2018-09-01",
-      "endDate": "2020-01-01",
-      "courses": []
-    },
-    {
-      "institution": "Hebei University of Engineering",
-      "location": "China",
-      "area": "Architecture",
-      "studyType": "Bachelor of Architecture",
-      "startDate": "2013-09-01",
-      "endDate": "2018-07-01",
-      "courses": []
-    }
-  ],
-  "education": [
+  "work": [
     {
       "name": "National University of Singapore",
       "position": "PhD Candidate, Department of Architecture",
@@ -103,6 +45,39 @@
       "summary": "Circular Future Cities (CFC) project."
     }
   ],
+  "education": [
+    {
+      "institution": "National University of Singapore",
+      "location": "Singapore",
+      "url": "https://nus.edu.sg",
+      "area": "Architecture",
+      "studyType": "PhD (Candidate)",
+      "startDate": "2021-08-01",
+      "endDate": "",
+      "score": "CAP: 4.21/5",
+      "courses": []
+    },
+    {
+      "institution": "Harbin Institute of Technology (Shenzhen)",
+      "location": "China",
+      "area": "Architecture",
+      "studyType": "Master of Engineering",
+      "startDate": "2018-09-01",
+      "endDate": "2020-01-01",
+      "score": "GPA: 3.344/4 (Rank: 3/13)",
+      "courses": []
+    },
+    {
+      "institution": "Hebei University of Engineering",
+      "location": "China",
+      "area": "Architecture",
+      "studyType": "Bachelor of Architecture",
+      "startDate": "2013-09-01",
+      "endDate": "2018-07-01",
+      "score": "GPA: 4.22/5 (Rank: 1/67)",
+      "courses": []
+    }
+  ],
   "awards": [
     {
       "title": "ACADIA 2023 Student Conference Scholarship",
@@ -121,6 +96,58 @@
       "date": "2021-01-01",
       "awarder": "CAADRIA",
       "summary": "Young Researcher Award"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Parametric archetype: An incremental learning model based on a similarity measure for building material stock aggregation",
+      "publisher": "Automation in Construction",
+      "releaseDate": "2025",
+      "summary": "Journal article."
+    },
+    {
+      "name": "Techniques and tools for integrating building material stock analysis and life cycle assessment at the urban scale: A systematic literature review",
+      "publisher": "Building and Environment",
+      "releaseDate": "2024",
+      "summary": "Journal article."
+    },
+    {
+      "name": "Pre-Evaluation method of the experiential architecture based on multidimensional physiological perception",
+      "publisher": "Journal of Asian Architecture and Building Engineering",
+      "releaseDate": "2023",
+      "summary": "Journal article."
+    }
+    // (You can expand with all conference/journal papers as needed.)
+  ],
+  "skills": [
+    {
+      "name": "Architecture & Urban Modelling",
+      "keywords": [
+        "Urban Material Stock Modelling",
+        "Sustainable Urban Analysis",
+        "Building & City Informatics",
+        "MFA & LCA",
+        "Computational Design"
+      ]
+    },
+    {
+      "name": "Software",
+      "keywords": [
+        "AutoCAD",
+        "SketchUp",
+        "Vray",
+        "Adobe Photoshop",
+        "Lumion",
+        "Premiere",
+        "QGIS",
+        "Revit",
+        "Dynamo",
+        "Unity3D",
+        "Fuzor",
+        "Python",
+        "Protégé",
+        "SQLiteStudio"
+      ]
     }
   ],
   "languages": [

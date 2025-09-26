@@ -16,64 +16,6 @@
     },
     "profiles": []
   },
-    "work & experience": [
-    {
-      "name": "National University of Singapore",
-      "position": "Postdoctoral Research Fellow, Department of Building Environment",
-      "url": "",
-      "startDate": "2025-10",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "City Synatx Lab"
-      ]
-    },
-    {
-      "name": "ETH Zurich",
-      "position": "Academic Guest, Chair of Sustainable Construction",
-      "url": "https://ethz.ch",
-      "startDate": "2023-06-01",
-      "endDate": "2023-08-01",
-      "summary": "Research collaboration during PhD studies."
-    },
-    {
-      "name": "Singapore ETH Center (SEC), Future Cities Lab (FCL) Global",
-      "position": "PhD Researcher",
-      "startDate": "2022-02-01",
-      "endDate": "2024-02-01",
-      "summary": "Circular Future Cities (CFC) project."
-    }
-  ],
-  "education": [
-    {
-      "institution": "National University of Singapore",
-      "location": "Singapore",
-      "url": "https://nus.edu.sg",
-      "area": "Architecture",
-      "studyType": "PhD (Candidate)",
-      "startDate": "2021-08-01",
-      "endDate": "",
-      "courses": []
-    },
-    {
-      "institution": "Harbin Institute of Technology (Shenzhen)",
-      "location": "China",
-      "area": "Architecture",
-      "studyType": "Master of Engineering",
-      "startDate": "2018-09-01",
-      "endDate": "2020-01-01",
-      "courses": []
-    },
-    {
-      "institution": "Hebei University of Engineering",
-      "location": "China",
-      "area": "Architecture",
-      "studyType": "Bachelor of Architecture",
-      "startDate": "2013-09-01",
-      "endDate": "2018-07-01",
-      "courses": []
-    }
-  ],
   "education": [
     {
       "name": "National University of Singapore",
@@ -101,6 +43,39 @@
       "startDate": "2022-02-01",
       "endDate": "2024-02-01",
       "summary": "Circular Future Cities (CFC) project."
+    }
+  ],
+  "education": [
+    {
+      "institution": "National University of Singapore",
+      "location": "Singapore",
+      "url": "https://nus.edu.sg",
+      "area": "Architecture",
+      "studyType": "PhD (Candidate)",
+      "startDate": "2021-08-01",
+      "endDate": "",
+      "score": "CAP: 4.21/5",
+      "courses": []
+    },
+    {
+      "institution": "Harbin Institute of Technology (Shenzhen)",
+      "location": "China",
+      "area": "Architecture",
+      "studyType": "Master of Engineering",
+      "startDate": "2018-09-01",
+      "endDate": "2020-01-01",
+      "score": "GPA: 3.344/4 (Rank: 3/13)",
+      "courses": []
+    },
+    {
+      "institution": "Hebei University of Engineering",
+      "location": "China",
+      "area": "Architecture",
+      "studyType": "Bachelor of Architecture",
+      "startDate": "2013-09-01",
+      "endDate": "2018-07-01",
+      "score": "GPA: 4.22/5 (Rank: 1/67)",
+      "courses": []
     }
   ],
   "awards": [
