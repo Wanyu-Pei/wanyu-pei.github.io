@@ -16,7 +16,7 @@
     },
     "profiles": []
   },
-    "work": [
+    "work & experience": [
     {
       "name": "National University of Singapore",
       "position": "Postdoctoral Research Fellow, Department of Building Environment",
@@ -32,11 +32,11 @@
       "name": "National University of Singapore",
       "position": "Research Associate, Department of Architecture",
       "url": "",
-      "startDate": "2025-7-1",
-      "endDate": "2025-9-30",
+      "startDate": "2025-10-1",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Future Resilient Systems Phase II"
+        "City Synatx Lab"
       ]
     },
     {
@@ -85,6 +85,35 @@
       "courses": []
     }
   ],
+  "education": [
+    {
+      "name": "National University of Singapore",
+      "position": "PhD Candidate, Department of Architecture",
+      "url": "https://nus.edu.sg",
+      "startDate": "2021-08-01",
+      "endDate": "",
+      "summary": "Doctoral research in Architecture, College of Design and Engineering.",
+      "highlights": [
+        "Recipient of CSC Scholarship",
+        "CAP: 4.21/5"
+      ]
+    },
+    {
+      "name": "ETH Zurich",
+      "position": "Academic Guest, Chair of Sustainable Construction",
+      "url": "https://ethz.ch",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-01",
+      "summary": "Research collaboration during PhD studies."
+    },
+    {
+      "name": "Singapore ETH Center (SEC), Future Cities Lab (FCL) Global",
+      "position": "PhD Researcher",
+      "startDate": "2022-02-01",
+      "endDate": "2024-02-01",
+      "summary": "Circular Future Cities (CFC) project."
+    }
+  ],
   "awards": [
     {
       "title": "ACADIA 2023 Student Conference Scholarship",
@@ -121,8 +150,8 @@
       "keywords": [
         "Urban Material Stock",
         "Circular Cities",
-        "Urban and Building Information Modelling",
-        "Graph Domain Model"
+        "Computational Modelling",
+        "Digital Twins"
       ]
     }
   ],
