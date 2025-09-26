@@ -10,20 +10,21 @@
   type: time_table
   contents:
     - title: PhD
-      institution: National University of Singapore, Singapore
-      year: 2021
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Department of Architecture
-        - College of Design and Engineering
+        - Description 1.
+        - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Master of Engineering
-      institution: Harbin Institute of Technology, Shenzhen, China
-      year: 2018
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
         - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
