@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Wanyu Pei",
-    "label": "Postdoctoral Research Fellow",
+    "label": "PhD & Postdoctoral Research Fellow",
     "image": "",
     "email": "peiwanyu@u.nus.edu",
     "phone": "",
     "url": "https://wanyu-pei.github.io/",
-    "summary": "I am a Postdoctoral Research Fellow in Building Environment at the National University of Singapore, focusing on urban material stock modelling, sustainable urban analysis, and building informatics.",
+    "summary": "Postdoctoral Research Fellow in Building Environment at the National University of Singapore, focusing on urban material stock modelling, sustainable urban analysis, and building informatics.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -21,9 +21,9 @@
       "name": "National University of Singapore",
       "position": "Postdoctoral Research Fellow, Department of Building Environment",
       "url": "",
-      "startDate": "2025-10-01",
+      "startDate": "2025-10-1",
       "endDate": "",
-      "summary": "Supervisor: Yu Qian Ang",
+      "summary": "",
       "highlights": [
         "City Synatx Lab"
       ]
@@ -32,7 +32,7 @@
       "name": "National University of Singapore",
       "position": "Research Associate, Department of Architecture",
       "url": "",
-      "startDate": "2025-7-01",
+      "startDate": "2025-7-1",
       "endDate": "2025-9-30",
       "summary": "",
       "highlights": [
@@ -42,17 +42,16 @@
     {
       "name": "ETH Zurich",
       "position": "Academic Guest, Chair of Sustainable Construction",
-      "url": "https://sc.ibi.ethz.ch/en/news/2023/07/Wanyu.html",
+      "url": "https://ethz.ch",
       "startDate": "2023-06-01",
       "endDate": "2023-08-01",
-      "summary": "Host Supervisor: Guillaume Habert"
+      "summary": "Research collaboration during PhD studies."
     },
     {
       "name": "Singapore ETH Center (SEC), Future Cities Lab (FCL) Global",
       "position": "PhD Researcher",
       "startDate": "2022-02-01",
       "endDate": "2024-02-01",
-      "url": "https://futurecitieslab.world/module/CFC",
       "summary": "Circular Future Cities (CFC) project."
     }
   ],
@@ -65,7 +64,7 @@
       "studyType": "PhD (Candidate)",
       "startDate": "2021-08-01",
       "endDate": "",
-      "summary": "Supervisor: Rudi Stouffs"
+      "courses": []
     },
     {
       "institution": "Harbin Institute of Technology (Shenzhen)",
@@ -129,17 +128,17 @@
   ],
   "projects": [
     {
-      "name": "Circular Cities Workshop",
-      "summary": "Workshop at DigitalFUTURES 2024 on material inference and parametric archetype modeling.",
-      "startDate": "2024-06-29",
-      "endDate": "2024-07-06"
-    },
-    {
       "name": "Circular Future Cities (CFC) Project",
       "summary": "Singapore ETH Center project on circular urban materials.",
       "highlights": ["Material flow analysis", "Urban-scale modeling"],
       "startDate": "2022-02-01",
       "endDate": "2024-02-01"
+    },
+    {
+      "name": "Circular Cities Workshop",
+      "summary": "Workshop at DigitalFUTURES 2024 on material inference and parametric archetype modeling.",
+      "startDate": "2024-06-29",
+      "endDate": "2024-07-06"
     }
   ]
 }

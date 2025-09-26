@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Wanyu Pei",
-    "label": "Postdoctoral Research Fellow",
+    "label": "PhD & Postdoctoral Research Fellow",
     "image": "",
     "email": "peiwanyu@u.nus.edu",
     "phone": "",
@@ -23,7 +23,7 @@
       "url": "",
       "startDate": "2025-10-01",
       "endDate": "",
-      "summary": "Supervisor: Yu Qian Ang",
+      "summary": "",
       "highlights": [
         "City Synatx Lab"
       ]
@@ -42,17 +42,16 @@
     {
       "name": "ETH Zurich",
       "position": "Academic Guest, Chair of Sustainable Construction",
-      "url": "https://sc.ibi.ethz.ch/en/news/2023/07/Wanyu.html",
+      "url": "https://ethz.ch",
       "startDate": "2023-06-01",
       "endDate": "2023-08-01",
-      "summary": "Host Supervisor: Guillaume Habert"
+      "summary": "Research collaboration during PhD studies."
     },
     {
       "name": "Singapore ETH Center (SEC), Future Cities Lab (FCL) Global",
       "position": "PhD Researcher",
       "startDate": "2022-02-01",
       "endDate": "2024-02-01",
-      "url": "https://futurecitieslab.world/module/CFC",
       "summary": "Circular Future Cities (CFC) project."
     }
   ],
@@ -65,7 +64,7 @@
       "studyType": "PhD (Candidate)",
       "startDate": "2021-08-01",
       "endDate": "",
-      "summary": "Supervisor: Rudi Stouffs"
+      "courses": []
     },
     {
       "institution": "Harbin Institute of Technology (Shenzhen)",
@@ -128,7 +127,7 @@
     }
   ],
   "projects": [
-    {
+        {
       "name": "Circular Cities Workshop",
       "summary": "Workshop at DigitalFUTURES 2024 on material inference and parametric archetype modeling.",
       "startDate": "2024-06-29",

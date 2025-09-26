@@ -23,7 +23,7 @@
       "url": "",
       "startDate": "2025-10-01",
       "endDate": "",
-      "summary": "Supervisor: Yu Qian Ang",
+      "summary": "",
       "highlights": [
         "City Synatx Lab"
       ]
@@ -42,17 +42,16 @@
     {
       "name": "ETH Zurich",
       "position": "Academic Guest, Chair of Sustainable Construction",
-      "url": "https://sc.ibi.ethz.ch/en/news/2023/07/Wanyu.html",
+      "url": "https://ethz.ch",
       "startDate": "2023-06-01",
       "endDate": "2023-08-01",
-      "summary": "Host Supervisor: Guillaume Habert"
+      "summary": "Research collaboration during PhD studies."
     },
     {
       "name": "Singapore ETH Center (SEC), Future Cities Lab (FCL) Global",
       "position": "PhD Researcher",
       "startDate": "2022-02-01",
       "endDate": "2024-02-01",
-      "url": "https://futurecitieslab.world/module/CFC",
       "summary": "Circular Future Cities (CFC) project."
     }
   ],
